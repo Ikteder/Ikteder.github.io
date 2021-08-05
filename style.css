@@ -1,11 +1,35 @@
-body
+*
 {
     margin: 0;
-    background-color: #030422;
+    padding: 0;
+   
 }
+
+
 #particles-js 
 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(434952.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo 
+{
+    margin-top:  25px;
+    font-size: 29px;
+    text-transform: uppercase;
+}
+.welcome 
+{
+    margin-left: 5%;
     position: absolute;
-    width: 100%;
-    height: 100%;
+    color: rgb(156, 0, 0);
+    font-family: sans-serif;
+
+}
+.welcome h1
+{
+
 }

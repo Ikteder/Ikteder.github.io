@@ -41,11 +41,11 @@ particlesJS('particles-js',
         }
       },
       "opacity": {
-        "value": 0.5,
-        "random": false,
+        "value": 1,
+        "random": true,
         "anim": {
           "enable": true,
-          "speed": 0.3,
+          "speed": 2,
           "opacity_min": 0.1,
           "sync": false
         }
@@ -86,11 +86,11 @@ particlesJS('particles-js',
       "events": {
         "onhover": {
           "enable": true,
-          "mode": "repulse"
+          "mode": "bubble"
         },
         "onclick": {
           "enable": true,
-          "mode": "push"
+          "mode": "repulse"
         },
         "resize": true
       },
