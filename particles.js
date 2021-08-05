@@ -67,7 +67,7 @@ var pJS = function(tag_id, params){
       line_linked: {
         enable: true,
         distance: 100,
-        color: '#fff',
+        color: '#18D4E3',
         opacity: 1,
         width: 1
       },
@@ -1038,7 +1038,7 @@ var pJS = function(tag_id, params){
           var color_line = pJS.particles.line_linked.color_rgb_line;
           pJS.canvas.ctx.strokeStyle = 'rgba('+color_line.r+','+color_line.g+','+color_line.b+','+opacity_line+')';
           pJS.canvas.ctx.lineWidth = pJS.particles.line_linked.width;
-          pJS.canvas.ctx.lineCap = 'round'; /* performance issue */
+          //pJS.canvas.ctx.lineCap = 'round'; /* performance issue */
           
           /* path */
           pJS.canvas.ctx.beginPath();
