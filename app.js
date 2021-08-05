@@ -44,7 +44,7 @@ particlesJS('particles-js',
         "value": 0.5,
         "random": false,
         "anim": {
-          "enable": false,
+          "enable": true,
           "speed": 0.3,
           "opacity_min": 0.1,
           "sync": false
@@ -54,7 +54,7 @@ particlesJS('particles-js',
         "value": 2,
         "random": true,
         "anim": {
-          "enable": false,
+          "enable": true,
           "speed": 10,
           "size_min": 0.1,
           "sync": false
@@ -71,7 +71,7 @@ particlesJS('particles-js',
         "enable": true,
         "speed": 2,
         "direction": "none",
-        "random": false,
+        "random": true,
         "straight": false,
         "out_mode": "out",
         "attract": {
@@ -119,15 +119,8 @@ particlesJS('particles-js',
         }
       }
     },
-    "retina_detect": true,
-    "config_demo": {
-      "hide_card": false,
-      "background_color": "#b61924",
-      "background_image": "",
-      "background_position": "50% 50%",
-      "background_repeat": "no-repeat",
-      "background_size": "cover"
-    }
+    "retina_detect": true
+   
   }
 
 );
