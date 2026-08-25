@@ -27,3 +27,4 @@
 - Added the Teaching Assistant role and expected December 2027 PhD completion date.
 - Added prominent LinkedIn, Google Scholar, GitHub, ORCID, and LPiNS profile links.
 - Added a downloadable one-page résumé modeled on the supplied résumé’s structure while using the public Boise State email instead of publishing a private phone number.
+- Replaced the profile letter badges with recognizable LinkedIn, Google Scholar, GitHub, and ORCID brand icons; retained a Boise State orange LPiNS mark with visible text labels for clarity and accessibility.
