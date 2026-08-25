@@ -1,4 +1,4 @@
-# Portfolio refresh — 2026-08-24
+# Portfolio refresh: 2026-08-24
 
 ## Evidence reviewed
 
@@ -21,7 +21,7 @@
 - Add a public SPARQ manuscript link only when the manuscript is intentionally released.
 - Review the printable CV whenever employment dates, education status, or publications change.
 
-## Correction — 2026-08-25
+## Correction: 2026-08-25
 
 - Corrected the Playense role to Software Engineer I, January 2022–June 2023, based on the supplied résumé.
 - Added the Teaching Assistant role and expected December 2027 PhD completion date.

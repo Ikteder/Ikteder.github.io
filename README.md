@@ -1,4 +1,4 @@
-# Ikteder Akhand Udoy — Portfolio
+# Ikteder Akhand Udoy | Portfolio
 
 Personal research and engineering portfolio published at <https://ikteder.github.io/>.
 
@@ -15,13 +15,13 @@ Serve this directory with any static file server, then open `index.html`. For ex
 
 ## Structure
 
-- `index.html` — portfolio content and metadata
-- `styles.css` — responsive and print styling
-- `script.js` — mobile menu and footer year
-- `cv.html` — browser-friendly résumé and printable CV view
-- `output/pdf/Ikteder_Akhand_Udoy_Resume.pdf` — downloadable one-page résumé
-- `assets/portrait.jpg` — optimized portrait
-- `docs/` — dated notes and decisions
+- `index.html`: portfolio content and metadata
+- `styles.css`: responsive and print styling
+- `script.js`: mobile menu and footer year
+- `cv.html`: browser-friendly résumé and printable CV view
+- `output/pdf/Ikteder_Akhand_Udoy_Resume.pdf`: downloadable one-page résumé
+- `assets/portrait.jpg`: optimized portrait
+- `docs/`: dated notes and decisions
 
 ## Limitations
 
