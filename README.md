@@ -18,12 +18,13 @@ Serve this directory with any static file server, then open `index.html`. For ex
 - `index.html` — portfolio content and metadata
 - `styles.css` — responsive and print styling
 - `script.js` — mobile menu and footer year
-- `cv.html` — printable CV view
+- `cv.html` — browser-friendly résumé and printable CV view
+- `output/pdf/Ikteder_Akhand_Udoy_Resume.pdf` — downloadable one-page résumé
 - `assets/portrait.jpg` — optimized portrait
 - `docs/` — dated notes and decisions
 
 ## Limitations
 
 - Publication counts and project selections are curated manually and should be reviewed when new work becomes public.
-- The CV contains only public, verified information available in the portfolio and institutional profiles.
+- The résumé contains public professional information, verified profile links, and experience details confirmed by the source résumé.
 - SPARQ is labeled as current research and is not represented as a published paper.

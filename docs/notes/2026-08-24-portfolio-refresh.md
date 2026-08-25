@@ -20,3 +20,10 @@
 
 - Add a public SPARQ manuscript link only when the manuscript is intentionally released.
 - Review the printable CV whenever employment dates, education status, or publications change.
+
+## Correction — 2026-08-25
+
+- Corrected the Playense role to Software Engineer I, January 2022–June 2023, based on the supplied résumé.
+- Added the Teaching Assistant role and expected December 2027 PhD completion date.
+- Added prominent LinkedIn, Google Scholar, GitHub, ORCID, and LPiNS profile links.
+- Added a downloadable one-page résumé modeled on the supplied résumé’s structure while using the public Boise State email instead of publishing a private phone number.
