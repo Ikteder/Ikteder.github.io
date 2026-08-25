@@ -123,7 +123,8 @@ story = [
     p("Ikteder Akhand Udoy", name_style),
     p("AI/ML and Software Engineering", role_style),
     p(
-        '<link href="mailto:iktederakhandudo989@u.boisestate.edu">Boise State Email</link>  |  '
+        'Primary: <link href="mailto:ikteder.akhand@gmail.com">ikteder.akhand@gmail.com</link>  |  '
+        'Boise State: <link href="mailto:iktederakhandudo989@u.boisestate.edu">iktederakhandudo989@u.boisestate.edu</link><br/>'
         '<link href="https://www.linkedin.com/in/ikteder-akhand-udoy-680a4122a">LinkedIn</link>  |  '
         '<link href="https://github.com/Ikteder">GitHub</link>  |  '
         '<link href="https://ikteder.github.io/">Portfolio</link>  |  '
