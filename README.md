@@ -2,6 +2,8 @@
 
 Personal research and engineering portfolio published at <https://ikteder.github.io/>.
 
+The companion interactive showcase is published separately at <https://ikteder.github.io/portfolio-showcase/>. Each site links prominently to the other.
+
 ## Current status
 
 - Primary portfolio and printable CV are complete.
