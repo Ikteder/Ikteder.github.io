@@ -28,5 +28,6 @@ Serve this directory with any static file server, then open `index.html`. For ex
 ## Limitations
 
 - Publication counts and project selections are curated manually and should be reviewed when new work becomes public.
+- Featured projects include FallbackLens and RankQuake; the expanded directory also surfaces recent data-auditing, native iOS, concurrency, and browser-game work.
 - The résumé contains public professional information, verified profile links, and experience details confirmed by the source résumé.
 - SPARQ is labeled as a submitted manuscript under review at IEEE Transactions on Artificial Intelligence; it is not represented as accepted or published.
